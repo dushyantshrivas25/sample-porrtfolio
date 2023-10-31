@@ -1,0 +1,232 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,
+body{
+    width: 100%;
+    height: 100%;
+}
+.container1{width: 100%;
+    height: 100%;
+    background-color: black;
+
+}
+.navbar{
+    background-color:grey;
+     width: 65%; 
+    height: 10%;
+    position: absolute;
+    right: 0%;
+    top: 0;
+
+}
+.navbar a{
+    text-decoration: none;
+    color: white;
+
+
+}
+.navbar li{
+    padding: 10px 40px;
+    display: inline-block;}
+
+    .container1 img{
+        height: 90%;
+        width: 65%;
+        position: absolute;
+        right: 0%;
+        top: 10%;
+    }
+    .container1 h1{
+        color: white;
+        font-size: 25px;
+        font-family: sans-serif;
+        position: absolute;
+        left: 10%;
+    }
+    .container1 p{font-size: 20px;
+        color: white;
+        font-family: sans-serif;
+        position: absolute;
+        left: 26%;
+        top: 50%;
+
+    }
+.container1 h2{
+    font-size:25px ;
+    color: white;
+    position: absolute;
+    left: 26%;
+    top: 53%;
+    font-family: sans-serif;
+
+}
+.container1 h3{ font-size:20px ;
+    color: black;
+    position: absolute;
+    left: 26%;
+    top: 59%;
+    font-family: sans-serif;
+    background-color: rgb(211, 211, 63);
+    padding: 5px 10px;
+
+
+}
+.container2{
+    height: 100%;
+    width: 100%;
+    background-color: rgb(239, 229, 210);
+}
+.smallcontainer{
+    background-color: black;
+    height: 70%;
+    width: 33%;
+    position: absolute;
+    top: 115%;
+    left:5%
+}
+.container2 img{
+    height: 70%;
+    width: 33%;
+    position: absolute;
+    left: 9%;
+    top:125% ;
+}
+.container2 h2{color:black;
+    position:absolute;
+    right: 39%;
+    top: 121%;
+    font-family: sans-serif;
+    font-size: 19px;
+
+}
+.container2 h1{color:black;
+    position:absolute;
+    right: 40%;
+    top: 124%;
+    font-family: sans-serif;
+    font-weight: 700;
+}
+.container2 p{
+    width: 40%;
+    height: 40%;
+    position: absolute;
+    right: 8%;
+    top: 130%;
+    font-family: sans-serif;
+    font-weight: 600;
+    
+}
+.container3{
+    width: 100%;
+    height: 100%;
+    background-color: #fff;
+}
+.container3 h1{
+    font-family: sans-serif;
+    right: 45%;
+    position: absolute;}
+    
+    .container3 p{font-family: sans-serif;
+        right: 45%;
+        font-weight: 600;
+        top: 205%;
+        position: absolute;
+    background-color: yellow;
+}
+.bar{
+    position: absolute;
+    top: 210%;
+    right: 30%;
+    justify-content: space-between;
+    align-items: center;
+}
+.bar a{
+    text-decoration: none;
+    color: black;
+    font-family: sans-serif;
+    padding: 40px 20px;
+
+}
+.image1 img{height: 40%;
+    width: 20%;
+    position: absolute;
+    top: 220%;
+    left: 15%;
+
+}
+.image2 img{height: 40%;
+    width: 20%;
+    position: absolute;
+    top: 220%;
+    left: 36%;
+
+}
+.image3 img{
+    height: 40%;
+    width: 20%;
+    position: absolute;
+    top: 220%;
+    left: 57%;
+
+}
+.image4 img{
+    height: 40%;
+    width: 20%;
+    position: absolute;
+    top: 304%;
+    left: 36%;
+}
+.image5 img{
+    height: 40%;
+    width: 20%;
+    position: absolute;
+    top: 304%;
+    left: 57%;
+}
+.image6 img{
+    height: 40%;
+    width: 20%;
+    position: absolute;
+    top: 262%;
+    right: 65%; 
+}
+.image7 img{
+    height: 40%;
+    width: 20%;
+    position: absolute;
+    top: 262%;
+    right: 44%;
+}
+.image8 img{
+    height: 40%;
+    width: 20%;
+    position: absolute;
+    top: 262%;
+    right: 23%;
+}
+.image9 img{
+    height: 40%;
+    width: 20%;
+    position: absolute;
+    top: 304%;
+    left:15%
+}
+button{
+position:absolute;
+top: 348%;
+left: 43%;
+background-color: black;
+color: white;
+padding: 5px 20px ;
+border-radius: 20px 20px 20px 20px;
+}
+        
+
+    
+
+
+    
+
